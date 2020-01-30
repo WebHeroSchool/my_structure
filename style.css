@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|PT+Serif&display=swap');
+
+body {
+	font-family: 'PT Serif', serif;
+}
+
 aside {
 	font-size: 14px;
 }
@@ -9,4 +15,5 @@ footer {
 
 h1 {
 	color: red;
+	font-family: 'Lobster', cursive;
 }
